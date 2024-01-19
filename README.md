@@ -16,14 +16,14 @@ The methodology encompasses:
 Our analysis revealed significant insights into the geographic, demographic, and vehicular factors affecting road accident severity in India. This includes the impact of the driver's education and experience, as well as road and environmental conditions.
 
 ## Suggestions
-Based on our findings, we propose several recommendations to improve road safety in India. These suggestions are aimed at policy makers, traffic authorities, and the general public.
+Based on our findings, we propose several recommendations to improve road safety in India. These suggestions are aimed at policymakers, traffic authorities, and the general public.
 
 ## Further Information
 For a detailed understanding of our project, please refer to the full project report.
 
 ## Acknowledgements
-We would like to thank [[Road Accident Severity India](https://www.kaggle.com/datasets/s3programmer/road-accident-severity-in-india)] for their invaluable contributions to this project.
+We would like to thank [Road Accident Severity India](https://www.kaggle.com/datasets/s3programmer/road-accident-severity-in-india) for their invaluable contributions to this project.
 
 ---
 
-*This project is part of [SENG 550 - Scalable Data Analytics/University of Calgary].
+*This project is part of SENG 550 - Scalable Data Analytics/University of Calgary.
